@@ -10,18 +10,18 @@ function App() {
   const data = {
     registrationDate: '23/1/2017',
     profileImage: {Profile}, // Replace with the actual image URL
-    nameAmharic: 'ፍፁም ኩዳማ ኡካ',
-    nameEnglish: 'FITSUM KUDAMA AUKA',
+    nameAmharic: 'ኮኬት ኩዳማ ኡካ',
+    nameEnglish: 'KOKET KUDAMA AUKA',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
     idNumber: '0041537767',
-    nameAmharic: 'ፍፁም ኩዳማ ኡካ',
-    nameEnglish: 'FITSUM KUDAMA AUKA',
+    nameAmharic: 'ኮኬት ኩዳማ ኡካ',
+    nameEnglish: 'KOKET KUDAMA AUKA',
     sector: 'ግለሰብ ነጋዴ',
     capital: '1,500,000.00',
     registrationDate: '2/2/2017',
     licenses: [
       {
-        name: 'ፍፁም ኩዳማ ኡካ',
+        name: 'ኮኬት ኩዳማ ኡካ',
         sector: 'የጨርቃ ጨርቅ ጭረቶች፤ ጥጥ፤ ክርና አልባሳት ችረርቻሮ ንግድ',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
       },
