@@ -6,22 +6,22 @@ import { AiOutlineEye } from "react-icons/ai"
 import { FaBars } from "react-icons/fa";
 
 function App() {
-  const [query, setQuery] = useState('006153229');
+  const [query, setQuery] = useState('006153238');
   const data = {
     registrationDate: '23/1/2017',
     profileImage: {Profile}, // Replace with the actual image URL
-    nameAmharic: 'ፍፁም ኩዳማ ኡካ',
-    nameEnglish: 'FITSUM KUDAMA AUKA',
+    nameAmharic: 'ምህረቱ ወደጁ ደስታ',
+    nameEnglish: 'MIHRETU WODEJU DESTA',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
-    idNumber: '006153229',
-    nameAmharic: 'ፍፁም ኩዳማ ኡካ',
-    nameEnglish: 'FITSUM KUDAMA AUKA',
+    idNumber: '006153238',
+    nameAmharic: 'ምህረቱ ወደጁ ደስታ',
+    nameEnglish: 'MIHRETU WODEJU DESTA',
     sector: 'ግለሰብ ነጋዴ',
     capital: '1,500,000.00',
     registrationDate: '2/2/2017',
     licenses: [
       {
-        name: 'ፍፁም ኩዳማ ኡካ',
+        name: 'ምህረቱ ወደጁ ደስታ',
         sector: 'የጨርቃ ጨርቅ ጭረቶች፤ ጥጥ፤ ክርና አልባሳት ችረርቻሮ ንግድ',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
       },
@@ -64,7 +64,7 @@ function App() {
        <FaSearch className="search-icon" /> 
       <input
         type="text"
-        placeholder="006153229"
+        placeholder="006153238"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
