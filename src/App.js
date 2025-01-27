@@ -10,18 +10,18 @@ function App() {
   const data = {
     registrationDate: '23/1/2017',
     profileImage: {Profile}, // Replace with the actual image URL
-    nameAmharic: 'ምህረቱ ወደጁ ደስታ',
-    nameEnglish: 'MIHRETU WODEJU DESTA',
+    nameAmharic: 'አብራሃ ገብረመድህን ገብረሂወት',
+    nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
     idNumber: '006153238',
-    nameAmharic: 'ምህረቱ ወደጁ ደስታ',
-    nameEnglish: 'MIHRETU WODEJU DESTA',
+    nameAmharic: 'አብራሃ ገብረመድህን ገብረሂወት',
+    nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
     sector: 'ግለሰብ ነጋዴ',
     capital: '1,500,000.00',
     registrationDate: '2/2/2017',
     licenses: [
       {
-        name: 'ምህረቱ ወደጁ ደስታ',
+        name: 'አብራሃ ገብረመድህን ገብረሂወት',
         sector: 'የጨርቃ ጨርቅ ጭረቶች፤ ጥጥ፤ ክርና አልባሳት ችረርቻሮ ንግድ',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
       },
