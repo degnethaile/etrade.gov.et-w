@@ -8,7 +8,7 @@ import { FaBars } from "react-icons/fa";
 function App() {
   const [query, setQuery] = useState('006153238');
   const data = {
-    registrationDate: '23/1/2017',
+    registrationDate: '23/1/2016',
     profileImage: {Profile}, // Replace with the actual image URL
     nameAmharic: 'አብራሃ ገብረመድህን ገብረሂወት',
     nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
@@ -23,7 +23,7 @@ function App() {
       {
         name: 'አብራሃ ገብረመድህን ገብረሂወት',
         sector: 'የጨርቃ ጨርቅ ጭረቶች፤ ጥጥ፤ ክርና አልባሳት ችረርቻሮ ንግድ',
-        licenseNumber: 'CE/TMDB/1/0218125/2017',
+        licenseNumber: 'CE/TMDB/1/0218125/2016',
       },
       // {
       //   name: 'አልማዝ አደባ አለኸኝ',
@@ -122,7 +122,7 @@ function App() {
             <td>{license.name}</td>
             <td>{license.sector}</td>
             <td>{license.licenseNumber}</td>
-            <td>2/2/2017 - 2/2/2018</td>
+            <td>2/05/2016 - 2/05/2017</td>
             <td>
               {/* <button
                 className="view-icon-button"
