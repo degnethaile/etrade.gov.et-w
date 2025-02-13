@@ -18,7 +18,7 @@ function App() {
     nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
     sector: 'ግለሰብ ነጋዴ',
     capital: '1,500,000.00',
-    registrationDate: '2/2/2017',
+    registrationDate: '2/2/2016',
     licenses: [
       {
         name: 'አብራሃ ገብረመድህን ገብረሂወት',
