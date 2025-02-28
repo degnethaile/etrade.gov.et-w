@@ -10,19 +10,19 @@ function App() {
   const data = {
     registrationDate: '23/1/2016',
     profileImage: {Profile}, // Replace with the actual image URL
-    nameAmharic: 'አብራሃ ገብረመድህን ገብረሂወት',
-    nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
+    nameAmharic: 'ወርቁ በለጠ ሸፈራው',
+    nameEnglish: 'WORKU BELETE SHIFERAW',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
     idNumber: '006153238',
-    nameAmharic: 'አብራሃ ገብረመድህን ገብረሂወት',
-    nameEnglish: 'ABRAHA GEBREMEDHIN GEBREHIWOT',
+    nameAmharic: 'ወርቁ በለጠ ሸፈራው',
+    nameEnglish: 'WORKU BELETE SHIFERAW',
     sector: 'ግለሰብ ነጋዴ',
-    capital: '1,500,000.00',
+    capital: '600,000.00',
     registrationDate: '2/05/2016',
     licenses: [
       {
-        name: 'አብራሃ ገብረመድህን ገብረሂወት',
-        sector: 'የጨርቃ ጨርቅ ጭረቶች፤ ጥጥ፤ ክርና አልባሳት ችረርቻሮ ንግድ',
+        name: 'ወርቁ በለጠ ሸፈራው',
+        sector: 'የልብስ ስፌት',
         licenseNumber: 'CE/TMDB/1/0218125/2016',
       },
       // {
