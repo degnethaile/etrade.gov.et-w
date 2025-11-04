@@ -10,19 +10,19 @@ function App() {
   const data = {
     registrationDate: '23/1/2016',
     profileImage: {Profile}, // Replace with the actual image URL
-    nameAmharic: 'ወርቁ በለጠ ሸፈራው',
-    nameEnglish: 'WORKU BELETE SHIFERAW',
+    nameAmharic: 'ኢያሱ ታገሰ አርፍጮ',
+    nameEnglish: 'EYASU TAGESSE ARFICHO',
         licenseNumber: 'CE/TMDB/1/0218125/2017',
     idNumber: '006153238',
-    nameAmharic: 'ወርቁ በለጠ ሸፈራው',
-    nameEnglish: 'WORKU BELETE SHIFERAW',
+    nameAmharic: 'EYASU TAGESSE ARFICHO',
+    nameEnglish: 'EYASU TAGESSE ARFICHO',
     sector: 'ግለሰብ ነጋዴ',
     capital: '600,000.00',
-    registrationDate: '2/05/2016',
+    registrationDate: '2/08/2017',
     licenses: [
       {
-        name: 'ወርቁ በለጠ ሸፈራው',
-        sector: 'የልብስ ስፌት',
+        name: 'ኢያሱ ታገሰ አርፍጮ',
+        sector: '62512)(62512)ኤሌክትሪክ መሳሪያዎችና ተዛማጅ ዕቃዎች ችርቻሮ ንግድ',
         licenseNumber: 'CE/TMDB/1/0218125/2016',
       },
       // {
